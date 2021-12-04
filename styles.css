@@ -1,0 +1,61 @@
+body {
+    background-color: #f0000f;
+  }
+  div{
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  h4 {
+    color: black;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #test1{
+      color: purple;
+      font-family: "Lucida Console", "Courier New", monospace;
+  }
+  #test2{
+    color: black;
+}
+#test3{
+    color: green;
+}
+.center{
+    color: red;
+}
+#test3{
+  color:blue
+}
+#test4{
+  color:blueviolet
+}
+#test5{
+  color:coral;
+}
+p.center{
+  color: blanchedalmond;
+}
+h1:hover{
+  color:burlywood
+}
+p:hover{
+  color: aqua;
+}
+p.dotted{
+  border-style: dotted;
+  border-width: thick;
+}
+#test5, #test6{
+  color:pink;
+}
+div #test3{
+  color: aqua;
+}
+
